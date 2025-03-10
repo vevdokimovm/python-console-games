@@ -1,0 +1,9 @@
+.DS_store
+
+# Игнорируем кеши Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорируем настройки PyCharm
+.idea/
